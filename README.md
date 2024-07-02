@@ -8,7 +8,6 @@ The main objectives of this analysis are:
 1. Determine the number of distinct countries present in the dataset.
 2. Identify the country with the highest amount of debt.
 3. Find the country with the lowest amount of principal repayments.
-4. 
 ## Dataset Description
 international_debt table
 country_name: Name of the country (varchar)
